@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzisfa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"> 
   当前工资<br>
-  <img src="https://profile-counter.glitch.me/mango2630/count.svg" />
+  <img src="https://profile-counter.glitch.me/wangzisfa/count.svg" />
 </p>
